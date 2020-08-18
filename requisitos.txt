@@ -1,0 +1,1 @@
+O software deverá gerenciar um sistema de carros voadores, e estipular rotas para cada cliente baseado na sua localização no momento do pedido tendo em vista de que o meio de transporte mais próximo deverá estar perto de sua localização, e para a rentabilidade do negócio, cada viagem não poderá passar dos $10,000 dólares.
